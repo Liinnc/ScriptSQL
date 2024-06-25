@@ -1,3 +1,8 @@
+/*
+Nome: Anderson Marden de Sousa Silva
+Dre: 119113730
+*/
+
 CREATE DATABASE IF NOT EXISTS locadora_veiculos;
 USE locadora_veiculos;
 
